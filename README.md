@@ -1,4 +1,4 @@
 fullstack-nanodegree-vm
 =============
 
-Common code for the Relational Databases and Full Stack Fundamentals courses
+See answers in /vagrant/news/run_query.py
